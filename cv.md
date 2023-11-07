@@ -17,3 +17,6 @@ I'm starting to learn frontend development and so far I'm enjoying it, I'm inspi
 3.English (pre-intermediate)
 
 *This is my first training course. Before that I studied on my own*
+
+
+[link] https://github.com/uliabiletskaya/rsschool-cv/edit/gh-pages/README.md
