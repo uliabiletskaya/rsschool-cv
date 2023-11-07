@@ -11,3 +11,9 @@ I'm starting to learn frontend development and so far I'm enjoying it, I'm inspi
 4.Git
 5.Basic knowledge of React js and Vue js
 
+## Languages: 
+1.Russian (native) 
+2.Ukranian (native) 
+3.English (pre-intermediate)
+
+*This is my first training course. Before that I studied on my own*
